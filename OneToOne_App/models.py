@@ -1,4 +1,4 @@
-
+# Create  Student Model and  Course Model
 from django.db import models
 
 class Student(models.Model):
