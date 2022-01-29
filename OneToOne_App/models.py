@@ -1,4 +1,5 @@
 # Create  Student Model and  Course Model
+# Here we are providing Relationship between models
 from django.db import models
 
 class Student(models.Model):

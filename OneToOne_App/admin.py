@@ -1,4 +1,4 @@
-
+# Load our models related tables with admin site
 from django.contrib import admin
 from OneToOne_App.models import Student,Course
 
